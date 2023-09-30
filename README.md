@@ -13,3 +13,5 @@ Built with:
 • Responsive layout
 
 • JavaScript
+
+![Screen Shot 2023-09-29 at 10 57 47 PM](https://github.com/MacMittenss/Practicum-Project-Finished/assets/138247485/8ad692b7-c99b-4830-9e8e-84d80af673db)
